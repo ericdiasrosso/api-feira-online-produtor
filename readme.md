@@ -1,4 +1,3 @@
-# Node API boilerplate by nave.rs
 
 # Getting started
 
